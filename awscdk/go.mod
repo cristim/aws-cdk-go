@@ -1,4 +1,4 @@
-module github.com/aws/aws-cdk-go/awscdk
+module github.com/cristim/aws-cdk-go/awscdk
 
 go 1.16
 
